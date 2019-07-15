@@ -8,4 +8,12 @@
 
 `git commit -m "Changed the name"`
 
-<img src="../../gifs/git-commit.gif" alt="Git Commit"/> <br>
+### Demo
+
+<img src="../../gifs/git-commit.gif" alt="Git Commit"/>
+
+### Related
+
+- [Push changes](git-push.md)
+- [Reset File](git-reset.md)
+- [Stage](git-stage.md)

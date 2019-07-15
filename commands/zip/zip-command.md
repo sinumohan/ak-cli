@@ -7,7 +7,12 @@
 
 #### Example:
 
-`zip -r ak-cli.zip /ak-cli`
+`zip -r ak-cli.zip ak-cli`
 
 
 <img src="../../gifs/zip-command.gif" alt="Zip Command"/> <br>
+
+### Related
+
+- [Zip with encryption](zip-command-encryption.md)
+- [Unzip file](unzip-command.md)
